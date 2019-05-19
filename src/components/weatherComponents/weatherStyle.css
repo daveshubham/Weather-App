@@ -1,0 +1,12 @@
+.weatherStyle {
+    text-align: left;
+    position: absolute;
+    top: 56%;
+    left: 44%;
+    color: white;
+}
+
+.errorMessage {
+    text-align: left;
+    color: white;
+}
